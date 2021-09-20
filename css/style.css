@@ -1,0 +1,44 @@
+.menu{
+  font-weight: bold;
+  font-size: 15px;
+  color: #00277e;
+  margin: 20px 30px;
+  
+}
+.menu .title{
+  font-size: 20px;
+  display: inline-block;
+}
+.menu .content{
+  display: inline;
+  float: right;
+}
+.menu .content a{
+  display: inline-block;
+  text-decoration: none;
+  color: #00277e;
+  padding-left: 20px;
+}
+.main{
+  margin: 0px 20px 0px 20px;
+  flex;
+}
+.main .text{
+  font-weight: 500;
+  font-size: 50px;
+}
+.main .imagebox{
+  position:relative;
+  top: 100px;
+  width: 100%;
+}
+.main img{
+  display: block;
+  margin: 0 0 0 auto;
+  width: 50%;
+}
+.main .box{
+  background-color: #3333aa;
+  height: 100px;
+  width: 75%;
+}
